@@ -1,8 +1,8 @@
 import tensorflow as tf
 import pandas as pd
 import numpy as np
-import IPython
-IPython.embed()
+#import IPython
+#IPython.embed()
 
 
 
